@@ -1,0 +1,11 @@
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\bin\Debug\piil_rainer_kalkulaator.exe.config
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\bin\Debug\piil_rainer_kalkulaator.exe
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\bin\Debug\piil_rainer_kalkulaator.pdb
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.csproj.AssemblyReference.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.csproj.SuggestedBindingRedirects.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.Form1.resources
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.Properties.Resources.resources
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.csproj.GenerateResource.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.exe
+C:\Users\piilr\OneDrive - Tallinn Polytechnic School\Tunnitööd\OOP\Kodutöö\2\piil_rainer_kalkulaator\piil_rainer_kalkulaator\obj\Debug\piil_rainer_kalkulaator.pdb
